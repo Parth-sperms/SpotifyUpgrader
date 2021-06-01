@@ -4,7 +4,7 @@
 
 <p align='center'>
 <img src='https://img.shields.io/github/stars/WARSNOOP/SpotifyUpgrader'></img>
-<img src='https://img.shields.io/badge/Click-To%20Download-success'></img>
+<a href="https://github.com/WARSNOOP/SpotifyUpgrader/archive/refs/tags/1.0.zip"><img src='https://img.shields.io/badge/Click-To%20Download-success'></img></a>
 <img src = 'https://img.shields.io/badge/Made%20By-Warsnoop-important'></img>
 </p>
 
