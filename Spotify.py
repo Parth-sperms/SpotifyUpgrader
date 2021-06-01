@@ -178,9 +178,9 @@ async def help(ctx):
     embed = discord.Embed(title="SpotifyUpgrader", color=0xfc0a4f)
     embed.add_field(name=f"!Stock", value='Shows the stock!', inline=False)
     embed.add_field(name=f"!Redeem (code) (country)",value='Reedems the key and send you DM!', inline=False)
-    embed.add_field(name=f"!Donate",value='Donate warsnoop (owner of the bot)!', inline=False)
+    embed.add_field(name=f"!Donate",value='Donate!', inline=False)
     embed.add_field(name=f"!Gen (number)",value='Generated number of codes! (Admin only)', inline=False)
     embed.set_footer(text=ctx.author, icon_url=ctx.author.avatar_url)
     await ctx.send(embed=embed)
 
-client.run('ODQ4NDQ2NjE5MDQwODc0NDk2.YLMvfQ.f2b8uM2GtFSr93DlzYy9UW6FS0Q')
+client.run('Token here')
