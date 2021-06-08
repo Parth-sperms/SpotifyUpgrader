@@ -40,8 +40,6 @@ The following <i>commands</i> are avaliable -
 ---
 
 Need any help? Contact me on Discord <b>warsnoop#0755</b><br />
-<br />
-Help me reach my PC Goal | 460$/550$
 
 ```
 BTC: 1GevApCLT9FPyi3fhue4dvAATMnuNtTGfa
